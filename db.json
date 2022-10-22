@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "nome": "Maria",
+      "telefone": "(92) 3333-3333",
+      "endereco": "R. Getúlio Vargas",
+      "dataNascimento": "12/08/1990"
+    },
+    {
+      "id": 2,
+      "nome": "José",
+      "telefone": "(92) 4444-4444",
+      "endereco": "R. Getúlio Vargas",
+      "dataNascimento": "12/08/1990"
+    },
+    {
+      "id": 3,
+      "nome": "Pedro",
+      "telefone": "(92) 3333-3333",
+      "endereco": "R. Getúlio Vargas",
+      "dataNascimento": "12/08/1990"
+    },
+    {
+      "id": 4,
+      "nome": "João",
+      "telefone": "(92) 3333-3333",
+      "endereco": "R. Getúlio Vargas",
+      "dataNascimento": "12/08/1990"
+    }
+  ]
+}
